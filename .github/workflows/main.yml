@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.API_KEY }}
 
           # Options
-          user: GoByeBye
+          user: KindCoder-no
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Oslo
