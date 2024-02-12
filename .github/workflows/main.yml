@@ -34,4 +34,4 @@ jobs:
           plugin_screenshot_title: Main Website
           plugin_screenshot_url: https://kindcoder.com
           plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_calendar_limit: 2
