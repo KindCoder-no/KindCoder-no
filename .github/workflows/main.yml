@@ -23,5 +23,6 @@ jobs:
           plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
+          plugin_achievements: yes
           plugin_calendar: yes
           plugin_calendar_limit: 0
