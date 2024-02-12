@@ -24,10 +24,14 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
           plugin_achievements: yes
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 0
+          plugin_activity_filter: issue, pr, release, fork, review, ref/create
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_selector: body
           plugin_screenshot_title: Main Website
           plugin_screenshot_url: https://kindcoder.com
           plugin_calendar: yes
-          plugin_calendar_limit: 0
+          plugin_calendar_limit: 1
