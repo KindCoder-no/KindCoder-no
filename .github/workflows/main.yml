@@ -19,3 +19,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           plugin_lines: yes
+          plugin_languages: yes
