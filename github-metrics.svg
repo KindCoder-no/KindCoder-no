@@ -31,19 +31,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -408,6 +408,7 @@
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="64" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </g>
                             <g transform="translate(0, 144)">
@@ -902,12 +903,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#5 [Snyk] Upgrade @emotion/styled from 11.11.0 to 11.11.5</span>
+                                        <span class="issue">#3 [Snyk] Upgrade express from 4.18.2 to 4.19.2</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Publy-AS/meetly-frontend</span></div>
-                                    <div>2 files changed <span class="code">++27 --24</span></div>
+                                    <div> in <span class="repo">Publy-AS/meetly-backend</span></div>
+                                    <div>2 files changed <span class="code">++20 --87</span></div>
                                 </div>
                             </section>
                         </div>
@@ -920,9 +921,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-upgrade-6e22626f3df8c8b7ef98bdcdba82bf9c</span>
+                                        <span class="code">snyk-upgrade-d0d51e85f5c7f134332a87e241a1d264</span>
                                         in
-                                        <span class="repo">Publy-AS/meetly-frontend</span>
+                                        <span class="repo">Publy-AS/meetly-backend</span>
                                     </div>
                                 </div>
                             </section>
@@ -935,12 +936,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#4 [Snyk] Upgrade react-intl from 6.6.2 to 6.6.6</span>
+                                        <span class="issue">#2 [Snyk] Upgrade dotenv from 16.3.1 to 16.4.5</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Publy-AS/meetly-frontend</span></div>
-                                    <div>2 files changed <span class="code">++36 --26</span></div>
+                                    <div> in <span class="repo">Publy-AS/meetly-backend</span></div>
+                                    <div>2 files changed <span class="code">++10 --9</span></div>
                                 </div>
                             </section>
                         </div>
@@ -953,9 +954,9 @@
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">snyk-upgrade-324f61dd9f115852c19ff17646eaa2b2</span>
+                                        <span class="code">snyk-upgrade-5e79c435189111383340661c20666b65</span>
                                         in
-                                        <span class="repo">Publy-AS/meetly-frontend</span>
+                                        <span class="repo">Publy-AS/meetly-backend</span>
                                     </div>
                                 </div>
                             </section>
@@ -968,12 +969,12 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#3 [Snyk] Upgrade @mui/material from 5.15.7 to 5.15.17</span>
+                                        <span class="issue">#1 [Snyk] Upgrade mongoose from 8.0.4 to 8.3.4</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">Publy-AS/meetly-frontend</span></div>
-                                    <div>2 files changed <span class="code">++138 --124</span></div>
+                                    <div> in <span class="repo">Publy-AS/meetly-backend</span></div>
+                                    <div>2 files changed <span class="code">++104 --117</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1032,7 +1033,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.073333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.17666666666667 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1054,7 +1055,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1262 times</div>
+                                <div class="text">Repositories have been deployed 1263 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1099,7 +1100,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.6974674880219096 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="1.7823408624230037 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1135,7 +1136,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="75.95 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="77.5 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1163,7 +1164,7 @@
                                     <span class="prefix">Great</span>
                                     contributor
                                 </div>
-                                <div class="text">Opened 347 pull requests</div>
+                                <div class="text">Opened 350 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1369,7 +1370,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.68m out of 205m repositories</span>
+                                    <span class="gh">ranked 2.68m out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1480,7 +1481,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.16m out of 205m repositories</span>
+                                    <span class="gh">ranked 3.16m out of 200m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
