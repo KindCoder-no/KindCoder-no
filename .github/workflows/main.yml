@@ -28,10 +28,5 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: pr, release, fork, review, ref/create
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: Main Website
-          plugin_screenshot_url: https://kindcoder.com
           plugin_calendar: yes
           plugin_calendar_limit: 2
