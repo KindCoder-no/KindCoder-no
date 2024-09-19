@@ -24,7 +24,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 4
           plugin_achievements: yes
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: pr, release, fork, review, ref/create
