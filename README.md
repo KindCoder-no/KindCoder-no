@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Working at Publy AS**
+- 💼 I'm currently: **💻 Working at Publy AS**
 
  **<h3 align="left">Skills</h3>**
 
