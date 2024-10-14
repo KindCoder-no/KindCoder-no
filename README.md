@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently: **💻 Working at Publy AS**
+- 💼 I'm currently Working at: **<a href="https://github.com/Publy-AS" target="_blank">Publy Digital Signage</a>**
 
  **<h3 align="left">Skills</h3>**
 
